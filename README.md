@@ -49,6 +49,15 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/qazahzahra/qazahzahra/output/github-snake.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/qazahzahra/qazahzahra/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</p>
+
+---
+
 ### 🔗 Find Me
 
 <p align="left">
