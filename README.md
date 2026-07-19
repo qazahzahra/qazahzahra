@@ -22,11 +22,9 @@
 | Project | Description |
 |---|---|
 | **[ERP](https://github.com/qazahzahra/ERP)** | C# Windows Forms wholesale ERP system, with an HTML/JS web UI in progress |
-| **Zara's Kitchen** | Full-stack restaurant website for a café, with Anthropic API–powered features |
 | **Smart Exam Seating System** | Full-stack exam seating system built for UET Lahore's Institute of Data Science |
 | **TaskFlow** | Flask-based daily task manager |
 | **[Task-1-QazahZahra](https://github.com/qazahzahra/Task-1-QazahZahra)** | First internship project as a Python Programming Intern at DecodeLabs |
-| **Portfolio Site** | Single-file animated portfolio with a terminal/IDE aesthetic |
 
 ---
 
