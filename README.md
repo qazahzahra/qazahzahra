@@ -9,7 +9,7 @@
 
 ### 🧭 About Me
 
-- 🎓 First-year **BS Data Science** student at the Institute of Data Science, UET Lahore
+- 🎓 Second-year **BS Data Science** student at the Institute of Data Science, UET Lahore
 - 🧪 Currently working through the **DecodeLabs Industrial Training Kit (Batch 2026)** — a structured series of Python projects
 - 🛠️ Building full-stack apps: an ERP system, a restaurant website, an exam seating system, and a task manager
 - 🌱 Exploring AI-powered features (Anthropic API) in real projects, not just tutorials
