@@ -2,7 +2,7 @@
 <h3 align="center">Data Science Student · Full-Stack Developer · Building things end to end</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Code.+Debug.+Deploy.;Python+%E2%80%A2+AI+%E2%80%A2+Data+Science;First-year+Data+Science+@+UET+Lahore&center=true&width=500&color=1e90ff&size=22" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Code.+Debug.+Deploy.;Python+%E2%80%A2+AI+%E2%80%A2+Data+Science;Second-year+Data+Science+@+UET+Lahore&center=true&width=500&color=1e90ff&size=22" alt="typing animation" />
 </p>
 
 ---
